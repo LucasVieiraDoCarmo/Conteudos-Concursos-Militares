@@ -1,0 +1,85 @@
+Física
+Mecânica
+Termologia
+Óptica
+Ondas
+Etrecidade
+Magnetismo
+Ondulatoria
+
+Química
+Matéria e Substância
+Estrutura Atômica Moderna
+Classificação Periódicas
+Ligação Químicas
+Características dos Compostos Iônicos e Moleculares
+Funções Inorgânicas
+Reações Quimicas
+Grandezas Quimicas
+Estequiometria
+Gases
+Termoquimica
+Cinética
+Soluções
+Equilibrio Quimico
+Eletroquimica
+Radiotividade
+Principios da Quimica Orgânica
+
+Geografia
+Geografia geral
+a) localizando-se no espaço
+b) o espaço natural
+c) o espaço politico e economico
+d) o espaço humano
+Geografia do Brasil
+a) o espaço natural
+b) o espaço economico
+c) o espaço politico
+d) o espaço humano
+
+História
+Sociedade Feudal
+O renascimento comercial urbano
+Os estados nacionais europeus da idade moderna, o absolutismo e o mercantilismo
+A expansão maritima europeia
+Renascimento cultural
+Montagem da colonização europeia na américa
+O sistema colonial portugues na america
+O iluminismo e o despotismo esclarecido
+As revoluções Inglesas e revoluçao industrial
+A independencia dos estados unidos da america
+A revoluçao francesa e a restauração
+Brasil imperial
+Primeira Guerra mundial
+Segunda guerra mundial
+Guerra fria
+O mundo no final do século XX e Início do século XXI
+
+Portugues
+Leitura e interpretação de textos
+Fonética
+Morfologia
+Semantica
+Sintaxe
+Teoria de linguagem
+Estilistica
+Literatura Brasileira(geral)
+
+Matematica
+Teoria dos conjuntos e conjuntos numericos
+Funções
+Função linear, Função afim, Função quadratica
+Função modular
+Função exponecial
+Função logaritma
+Trigonometria
+Contagem e analise combinatoria
+Probabilidade
+Matrizes determinantes e sistemas lineares
+Sequencia numericas e progressoes
+Geometria espacial de posição
+Geometria espacial metrica
+Geometria analitica plana
+Geometria plana
+ 
